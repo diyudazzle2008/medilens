@@ -7,7 +7,7 @@ MediLens is an AI-powered healthcare accessibility prototype that helps people u
 > ⚠️ Demo prototype. MediLens gives information only, not medical advice. It never diagnoses or prescribes. Always consult a doctor. Use sample or fake data only.
 
 ## 🔗 Live demo
-PASTE-YOUR-STREAMLIT-LINK-HERE
+https://medilens-dyfolno3ry93gahpbvskwn.streamlit.app/
 
 ## ✨ Features
 
